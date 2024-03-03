@@ -32,14 +32,13 @@
 
 <h2>🔭 I’m currently working on </h2>
 
-- Social Gaming Platform
+- HHA - Haiti Hospital Report Collecting Platform
 
 
 <h2> 🌱 I’m currently learning  </h2>
 
-- Distributed Computing
-- Software Development
-- Software Testing
+- Web Systems Architecture
+- DevOps: AWS S3, AWS Cloudwatch
 
 
 
