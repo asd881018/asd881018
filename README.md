@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/matt-tsai-90a3291a3/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/asd881018/Resume">![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=ReadMe&logoColor=white)</a>
 
-- <i>Currently:</i> BSc CS Student at Simon Fraser University. 
+- <i>Currently:</i> BSc CS Student at Simon Fraser University. Software Engineer at Expo-growth Marketing Corp.
 - <i>Previously:</i> Database/Middleware Admin at BC Liquor Distribution Branch.
 
 <h2>👀 Stats</h2>
@@ -33,12 +33,14 @@
 <h2>🔭 I’m currently working on </h2>
 
 - HHA - Haiti Hospital Report Collecting Platform
+- Slack bot with Google Gemini
 
 
 <h2> 🌱 I’m currently learning  </h2>
 
-- Web Systems Architecture
-- DevOps: AWS S3, AWS Cloudwatch
+- AWS Certification
+- GCP
+- Python backend
 
 
 
