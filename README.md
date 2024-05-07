@@ -32,7 +32,7 @@
 
 <h2>🔭 I’m currently working on </h2>
 
-- HHA - Haiti Hospital Report Collecting Platform
+- Customer Service B2B Program with OpenAI ChatGpt
 - Slack bot with Google Gemini
 
 
