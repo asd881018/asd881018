@@ -33,16 +33,13 @@
 <h2>🔭 I’m currently working on </h2>
 
 - Customer Service B2B Program with OpenAI ChatGpt
-- Slack bot with Google Gemini
 
 
 <h2> 🌱 I’m currently learning  </h2>
 
+- LLM Multi-assistants
 - AWS Certification
-- GCP
 - Python backend
-
-
 
 
 <!--
