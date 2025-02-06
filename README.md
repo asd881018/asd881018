@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/matt-tsai-90a3291a3/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/asd881018/Resume">![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=ReadMe&logoColor=white)</a>
 
-- <i>Currently:</i> BSc CS Student at Simon Fraser University. Software Engineer at Expo-growth Marketing Corp.
-- <i>Previously:</i> Database/Middleware Admin at BC Liquor Distribution Branch.
+- <i>Currently:</i> Software Engineer at Simon Fraser University Big Data Hub x ORX AI, New Graduate BSc CS Student at Simon Fraser University. 
+- <i>Previously:</i> Software Engineer at Expo-growth Marketing Corp., Database/Middleware Admin at BC Liquor Distribution Branch.
 
 <h2>👀 Stats</h2>
 
