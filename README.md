@@ -7,7 +7,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/asd881018.svg?style=social&label=Follow)](https://github.com/asd881018?tab=followers)
 
-<a href="mailto:cta106@sfu.ca">![cta106@sfu.ca](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="mailto:matt.tsai1018@gmail.com">![matt.tsai1018@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/matt-tsai-90a3291a3/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/asd881018/Resume">![Resume](https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=ReadMe&logoColor=white)</a>
 
@@ -32,14 +32,14 @@
 
 <h2>🔭 I’m currently working on </h2>
 
-- Customer Service B2B Program with OpenAI ChatGpt
+- Healthcare voice and text chatbot
 
 
 <h2> 🌱 I’m currently learning  </h2>
 
-- LLM Multi-assistants
-- AWS Certification
-- Python backend
+- Dara scraping
+- Vector DB
+- RAG
 
 
 <!--
